@@ -35,4 +35,3 @@ i=0
 while(i<50):
     print(birthday[i])
     i=i+1
-    
