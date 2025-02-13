@@ -26,4 +26,6 @@ Repeat Until All Numbers are Placed:
 Continue until all numbers from 1 to n² are placed correctly.
 
 #Sample output:
+
+
 ![image](https://github.com/user-attachments/assets/d831968e-7ca7-4604-84d7-131bf601c591)
